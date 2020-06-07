@@ -1,2 +1,2 @@
 # WordMasterClass
-A simple word game
+A simple word game.(Using python)
